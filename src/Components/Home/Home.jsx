@@ -41,7 +41,7 @@ function Home() {
                     <div className="item">
                         <div className="row ">
                             <div className="col-lg-4">
-                                <div id="test" className="picture position-relative">
+                                <div className="picture position-relative">
                                     <img src={pic1} alt="pizza" />
                                 </div>
                             </div>
